@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.android/build-cache/f1b2ddc7794b1293283429e0386df59268b57b63/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6003d64df88a6ce5e961fa2bad7f1b9b97689ac1">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f5d7093f1e91dbf22f9a6e7fbccc351a023f86a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-lang3/3.5/6c6c702c89bfff3cd9e80b04d668c5e190d588c6/commons-lang3-3.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6c6c702c89bfff3cd9e80b04d668c5e190d588c6">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-lang3-3.5_2a683b77d4a4168d07c3eed6e7a920d256fd6d1b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.gradle/caches/modules-2/files-2.1/commons-httpclient/commons-httpclient/3.1/964cd74171f427720480efdec40a7c7f6e58426a/commons-httpclient-3.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="964cd74171f427720480efdec40a7c7f6e58426a">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-httpclient-3.1_b66ba819ecdfb86e84c107201576d794e2711387/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.gradle/caches/modules-2/files-2.1/com.google.code.geocoder-java/geocoder-java/0.15/bbd6ea14092ea4a9a1c8b290912d55b629828c32/geocoder-java-0.15.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bbd6ea14092ea4a9a1c8b290912d55b629828c32">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/geocoder-java-0.15_06919f7242179a7a67fb9195c8af313520183fa3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.gradle/caches/modules-2/files-2.1/commons-codec/commons-codec/1.2/397f4731a9f9b6eb1907e224911c77ea3aa27a8b/commons-codec-1.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="397f4731a9f9b6eb1907e224911c77ea3aa27a8b">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/commons-codec-1.2_663c4a638ffebac733ef05fd3b1906cf02f32ca1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.android/build-cache/8ea6c2f1786390898db8130e3d016966a456ff07/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e4851331b3944beb6e7f77316a7661f53781da62">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8eb777ad51babbe53c286af54dbc98df3120a09b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/Earthack/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_16474fe5b56af0f213f7a35e6ca62c156d7ee984/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.android/build-cache/65b80fa1c9f7107841202a6ba4a0ff88d5b06ee9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bb115a110992b254f767f337da233071f6f940b8">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_002d8aea207067d7106b912d1f35ac637de9ef2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/1.7.2/112366d8158749e25532ebce162232c6e0fb20a5/gson-1.7.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="112366d8158749e25532ebce162232c6e0fb20a5">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-1.7.2_8d93c6a8d59638d810590680e4b1438dd4fb9789/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.android/build-cache/30c050254e43a2d689774118fd98fc55404f93e9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c7626a9aa507bbbdc16188bc9a9f9bf3370c1ddd">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8093c3130aa4c1f276d2a9817d7a28e8f0095ca5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/Earthack/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2fc40d8ea572f02b5ba4a06bf5819044a2c6d125">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6cf168f0bea433aebbe89d06bb887bf45b59bf2e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.android/build-cache/cf7334a717dd2c806de97197ee42fbd3e33ee683/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="19696dc358ac668e341f28c41e3387d61ccdb81d">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d63ca0acab596d8c5b1b5fdce708dae6e631d9c3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Brandon/.android/build-cache/04c7f2f548db2babb42957093916670af0200e83/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="bdcc2a9572f18b8c90a3a157cab6cdfc97c6c736">
+        <dex dex="/Users/Brandon/Earthack/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ca14c775d5d94455db469be5b6a7b737cf3e936b/classes.dex" />
+    </item>
+
+</items>
